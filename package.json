@@ -1,0 +1,22 @@
+{
+  "name": "cp-02-trello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash-fitzgibbon/CP-02-Trello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ash-fitzgibbon/CP-02-Trello/issues"
+  },
+  "homepage": "https://github.com/ash-fitzgibbon/CP-02-Trello#readme",
+  "dependencies": {
+    "jest": "^29.0.2"
+  }
+}
